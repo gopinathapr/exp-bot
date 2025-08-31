@@ -1,0 +1,12 @@
+google_api_python_client
+google_auth_oauthlib
+google-api-python-client~=2.171.0
+FastAPI~=0.115.12
+uvicorn~=0.34.3
+python-telegram-bot
+fuzzywuzzy~=0.18.0
+tabulate
+google-genai
+google-cloud-secret-manager
+Pillow
+pytz

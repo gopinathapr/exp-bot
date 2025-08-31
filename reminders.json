@@ -1,0 +1,58 @@
+[
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help",
+    "date_range": "01-05",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Bujji Daycare Fee",
+    "main_type": "Childcare",
+    "sub_type": "Daycare",
+    "date_range": "01-03",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Cook Salary",
+    "main_type": "Household",
+    "sub_type": "Cook Salary",
+    "date_range": "01-05",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Ashram payment",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment",
+    "date_range": "05-09",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Biweekly payment 1",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses",
+    "date_range": "01-04",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Biweekly payment 2",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses",
+    "date_range": "14-16",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Test Reminder",
+    "main_type": "Food",
+    "sub_type": "Food",
+    "date_range": "30-31",
+    "type": "fixed_expense"
+  },
+  {
+    "desc": "Maintenance",
+    "main_type": "Household",
+    "sub_type": "Maintenance",
+    "date_range": "05-10",
+    "type": "fixed_expense"
+  }
+]

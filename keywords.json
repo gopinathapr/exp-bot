@@ -1,0 +1,39 @@
+{
+  "food:food": [
+    "lunch",
+    "dinner",
+    "food",
+    "snacks",
+    "breakfast",
+    "bhel",
+    "egg roll",
+    "burger",
+    "pizza",
+    "tea",
+    "coffee",
+    "chai",
+    "samosa",
+    "vada pav",
+    "idli",
+    "dosa"
+  ],
+  "household:groceries": [
+    "vegetables",
+    "fruits",
+    "groceries",
+    "rice",
+    "dal",
+    "flour",
+    "oil",
+    "spices",
+    "sugar",
+    "salt"
+  ],
+  "Manasa Dad Expenses:Expenses": [
+    "part 1",
+    "biweekly",
+    "dad expenses",
+    "manjunatha",
+    "part 2"
+  ]
+}

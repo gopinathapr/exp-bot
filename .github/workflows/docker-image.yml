@@ -1,0 +1,22 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "web_hook" ]
+  pull_request:
+    branches: [ "web_hook" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag gopinathapr/expense-bot:latest
+      - name: push image to docker hub
+        run: |
+          docker login -u gopinathapr -p ${{ secrets.DOCKER_HUB_SECRET }}
+          docker push gopinathapr/expense-bot:latest

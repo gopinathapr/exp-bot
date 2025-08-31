@@ -1,0 +1,2063 @@
+[
+  {
+    "desc": "Some food",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Flowers ",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Egg roll",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Manasa Dad Expenses",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment"
+  },
+  {
+    "desc": "Dinner order + Food Street",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "KPN vegitables",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Dmart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Gasket repair ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bujji haircut",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Swiggy Instamart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Icecream ",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Instamart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Pulav + Egg roll",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "BigBasket order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tire air",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "KLM Shopping",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Aster ",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Lunch Aster",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Cakewala Donut + Macaroons",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bus ticket",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Power bill",
+    "main_type": "Household",
+    "sub_type": "Power Bill"
+  },
+  {
+    "desc": "Dinner Rolls + Dosa",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "SBI EMI",
+    "main_type": "Loans",
+    "sub_type": "SBI Home Loan"
+  },
+  {
+    "desc": "Bujji Toy",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Cream",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "BibBasket Order"
+  },
+  {
+    "desc": "Jalnethi",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Breakfast @ udupi",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "BigBasket order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Sweet corn",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Cloths shopping @ Trends",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Temple Puja",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Breakfast order",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Sankranti shopping ",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Dal",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Aunty farewell ",
+    "main_type": "Childcare",
+    "sub_type": "Childcare/Others"
+  },
+  {
+    "desc": "Manasa Dad",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Savings",
+    "main_type": "Savings",
+    "sub_type": "Savings/Others"
+  },
+  {
+    "desc": "Dmart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Swiggy order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bike Fuel",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Dinner Udupi park",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Zudio shopping",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Temple",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "cab booking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Lemon",
+    "main_type": "Healthcare",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Food order",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Photos",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Amazon fresh"
+  },
+  {
+    "desc": "Bujji Kaali Toy",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Daipers",
+    "main_type": "Childcare",
+    "sub_type": "Childcare/Clothing"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Manasa Dad",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Manasa Dad recharge",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Bujji Toy Book",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Lunch @ Pakashala",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Amma lunch order",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Car Fuel",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Dinner @ Udupi Garden",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Mandakki",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji Flag",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Venkatesh Mama Kumbha mela",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "BigBasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "BigBasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Manasa Dad",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Instamart",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Instamart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Flowers ",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Bujji dosa dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Dinner litti house",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Beeda",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Asha tiffinis Bujji Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji DayCare",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help"
+  },
+  {
+    "desc": "Maintenance",
+    "main_type": "Household",
+    "sub_type": "Maintenance"
+  },
+  {
+    "desc": "Bujji Bus Ride",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Lunch @ Udupi park",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Cloths Shopping Max",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Fuel",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Adiyogi Printout",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries Order BigBasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Swiggy Instamart",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Zepto",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Dinner  Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Insurance payment Gopi",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Curd",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Curd",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji Daycare",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji Toy",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Air fryer sheets ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Electric toothbrush",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coffe + Biscuit + Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Metro Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Manasa expenese",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Health care",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Bike Service",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Rapido",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Traffic fines",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Bike air",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Eggroll",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coconut water",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Milk",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Power bank",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Selfie Stick",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Water bottles",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Bujji cloths shopping zudio",
+    "main_type": "Family",
+    "sub_type": "Childcare/Clothing"
+  },
+  {
+    "desc": "Protein bar",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Printout",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Hair cut",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Cloths stiching",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Instamart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Instamart order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji Toys",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Snacks for trip",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Manasa hair setting",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Manasa Dad",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Coffe Milk At airport",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Blinkit printout",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Power bill"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Lunch khanavali",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Breakfast Alok park",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Egg boiler Amazon",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Eggs",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Phulka",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Nina head massage + others",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Water and curd"
+  },
+  {
+    "desc": "Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Cook",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Zepto order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Yashik Gift",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Fruits & Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "LKG School Fee Remaning",
+    "main_type": "Childcare",
+    "sub_type": "Childcare/Others"
+  },
+  {
+    "desc": "Daycare",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Donut + Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Watch cell",
+    "main_type": "Family",
+    "sub_type": "Recharge/Electronics"
+  },
+  {
+    "desc": "Bhel puri",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Milk + others",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bujji swimming glasses",
+    "main_type": "Childcare",
+    "sub_type": "Childcare/Others"
+  },
+  {
+    "desc": "Swimming class",
+    "main_type": "Childcare",
+    "sub_type": "Childcare/Clothing"
+  },
+  {
+    "desc": "Ashrama payment",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment"
+  },
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Cook Payment",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Dosa batter",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Flowers",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Manasa Dad Monthly Payment",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment"
+  },
+  {
+    "desc": "Manasa Dad Expenses",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "SBI EMI",
+    "main_type": "Loans",
+    "sub_type": "SBI Home Loan"
+  },
+  {
+    "desc": "Daycare Fee",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "MCB Change",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Maintenanace",
+    "main_type": "Household",
+    "sub_type": "Maintenance"
+  },
+  {
+    "desc": "Trim & Head Massage",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Dentist consultation",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Behl puri",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Spotify ",
+    "main_type": "Family",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Curd",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Badam milk",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Nasal spray ",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Lunch at siri cafe",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Mango juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Power bill",
+    "main_type": "Household",
+    "sub_type": "Power Bill"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Ola bike",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Fuel",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Swiggy orders",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Vasavi temple donation",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Flowers",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Juice and Fruits",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Ragi malt",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Egg Roll",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Dosa batter",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Milk",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Vadapav",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Shiva Temple",
+    "main_type": "Family",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Parking All",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tea, Popcorn",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Snow City",
+    "main_type": "Family",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Aquarium",
+    "main_type": "Family",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Arti halige",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Tablets",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Moms lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tablets",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Mom Dental Consultation",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Momo + Cane juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Office lunch + Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Milk curd",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Ragi malt",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Home test",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Badam milk ",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "BigBasket order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Swiggy order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Fruits and Juice",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Urban ",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Peanut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coconut water",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Health",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Phone cover and screen",
+    "main_type": "Family",
+    "sub_type": "Recharge/Electronics"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Kitchen cabinates gas pump + otehrs",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Gas pump carpenter",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Bujji Haircut",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Manasa Parlour visit",
+    "main_type": "Family",
+    "sub_type": "Personal Wellbeing"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Fuel",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Dinner",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Burger king",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji rides",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Parking",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "BigBasket order",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bujji Breakfast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "California burrito",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "LensKart Specs",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Cookies",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Food",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Manasa Dad Ashrama",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Avacado Toast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coconut water",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Amazon Fresh",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bike Fuel",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Protein Yogurt",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Cook Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help + Cook"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Ragi malt",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Daycare fee",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Rose milk",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Medicines",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Bujji Tattue Amazon",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Poha",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tablet Mondeslor",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Dosa Batter",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bhelpuri",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Printouts and others",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Medicines",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Groceries ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Atta Flour mill",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bujji Toy",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Soppu and others",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bakery items",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Cookies",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Food",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Manasa Dad Ashrama",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Monthly payment"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Avacado Toast",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Coconut water",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Amazon Fresh",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bike Fuel",
+    "main_type": "Travel",
+    "sub_type": "Fuel"
+  },
+  {
+    "desc": "Protein Yogurt",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Security Salary",
+    "main_type": "Household",
+    "sub_type": "Domestic help"
+  },
+  {
+    "desc": "Cook Salary",
+    "main_type": "Household",
+    "sub_type": "Cook Salary"
+  },
+  {
+    "desc": "Asha tiffins",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Ragi malt",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Daycare fee",
+    "main_type": "Childcare",
+    "sub_type": "Daycare"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Rose milk",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Donut",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Medicines",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Bujji Tattue Amazon",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Poha",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Groceries ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Tablet Mondeslor",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Dosa Batter",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bhelpuri",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Office Lunch",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Printouts and others",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Medicines",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Groceries ",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Atta Flour mill",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bujji Toy",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Soppu and others",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bakery items",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Food",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Breads & Banter",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Shoes",
+    "main_type": "Family",
+    "sub_type": "Clothing/Cosmetics/Gold"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Socks Shopping",
+    "main_type": "Family",
+    "sub_type": "Childcare/Clothing"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Coffee",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Flowers",
+    "main_type": "Family",
+    "sub_type": "Puja/Festival"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bhel and peanuts",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Bigbasket order 1",
+    "main_type": "Household"
+  },
+  {
+    "desc": "Tea and biscuits",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Swiggy Instamart",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snickers",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Breakfast at vidurashwatta",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Snacks and tea",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Bujji toys",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Lunch at gauribidanur",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Mangoes",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Mangoes for home",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Bakery items and cake",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Water bottle",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Office lunch",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Manasa dad items cost",
+    "main_type": "Manasa's Dad",
+    "sub_type": "Manasa Dad Expenses"
+  },
+  {
+    "desc": "Flat maintainanace",
+    "main_type": "Household",
+    "sub_type": "Maintenance"
+  },
+  {
+    "desc": "Laptop stand amazon",
+    "main_type": "Family",
+    "sub_type": "Recharge/Electronics"
+  },
+  {
+    "desc": "Breakfast",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Home organiser items",
+    "main_type": "Family",
+    "sub_type": "Family/Others"
+  },
+  {
+    "desc": "Lunch at gokarna cafe",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Bujji play area",
+    "main_type": "Childcare",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Rapido",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Bus ticket",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Hmp friends party",
+    "main_type": "Family",
+    "sub_type": "Entertainment"
+  },
+  {
+    "desc": "Ola cab to home",
+    "main_type": "Travel",
+    "sub_type": "Trave/Others"
+  },
+  {
+    "desc": "Gluconorm tables",
+    "main_type": "Healthcare",
+    "sub_type": "Healthcare"
+  },
+  {
+    "desc": "Clay for Bujji",
+    "main_type": "Childcare",
+    "sub_type": "Toys"
+  },
+  {
+    "desc": "Cylinder",
+    "main_type": "Household",
+    "sub_type": "Household/Others"
+  },
+  {
+    "desc": "Egg roll",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Dinner at Ram Ratna",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Vegetables",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Power bill",
+    "main_type": "Family",
+    "sub_type": "Power Bill"
+  },
+  {
+    "desc": "Food",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Egg roll",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Idli aunty shop dinner",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Water bottle",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Groceries",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  },
+  {
+    "desc": "Snacks",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Badam milk",
+    "main_type": "Food",
+    "sub_type": "Outside Food/Dining/Snacks"
+  },
+  {
+    "desc": "Tea",
+    "main_type": "Food",
+    "sub_type": "Food"
+  },
+  {
+    "desc": "Bigbasket",
+    "main_type": "Household",
+    "sub_type": "Groceries"
+  }
+]
