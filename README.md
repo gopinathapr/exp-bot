@@ -1,5 +1,9 @@
 # Expense Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-API-green.svg)](https://developers.google.com/sheets/api)
+
 A powerful Telegram bot that automatically logs expenses to Google Sheets with intelligent categorization, reminders, and comprehensive expense tracking features.
 
 ## ⚠️ Security Notice
